@@ -1,0 +1,15 @@
+{
+    "name": "amber/full-stack",
+    "description": "Projects for the course",
+    "type": "project",
+    "require": {
+        "bbluo/hello": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Gintare B",
+            "email": "gintaar3@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
